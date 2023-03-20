@@ -1,4 +1,4 @@
-##Code Refactor##
+# CODE REFACTOR
 ![site preview](./assets/images/site%20preview.png "site preview")
 
 To complete this project, I was provided starter code of a mock website that needed semantics added and code refactored to make the website more search friendly and reader accessible. Using knowledge from class, and teammate consultation,  I was able to remove redundant and non-semantic code whilst adding correct semantics and attributes without breaking the layout. 
