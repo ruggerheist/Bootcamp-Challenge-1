@@ -9,4 +9,4 @@ The hardest aspect I had to deal with was starting. With this being the first co
 By taking chances and working my way through this challenge, I was able to apply the structures and attributes learned in the first week and also assist other classmates with their questions. "See one, Do one, Teach One".
 
 #deployed link 
-https://ruggerheist.github.io/Bootcamp-Challenge-1/
+https://ruggerheist.github.io/code-refactor/
